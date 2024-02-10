@@ -16,7 +16,7 @@ function App() {
     <div >
 
 <Navbar />
-<Home />
+
 <Routes>  
 
   <Route path='home'element={<Home />} />
