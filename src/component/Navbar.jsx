@@ -138,7 +138,7 @@ const Navbar = () => {
                                     text-2xl bold  text-blue-900
                           hover:scale-150 duration-150'>
 
-                                            <NavLink style={navStyle} to={link} smooth duration={500}  >
+                                            <NavLink style={navStyle} to={link} smooth duration={500}  onClick={()=>setNav(!nav)} >
 
                                                 {link}
 
