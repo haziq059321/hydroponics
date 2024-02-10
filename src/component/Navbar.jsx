@@ -122,7 +122,7 @@ const Navbar = () => {
                     <>
                         <ul className=' w-full h1/2 fixed flex flex-col py-5 gap-7 
                            items-center justify-center  top-0 
-                          left-[110px]  h-screen  bg-white  
+                          left-[100px]  h-screen  bg-white  
                              transition-all duration-500 ease-in '>
 
                             {
@@ -135,7 +135,7 @@ const Navbar = () => {
 
                                             className=' cursor-pointer uppercase 
                                                 gap-6 
-                                    text-4xl bold  text-blue-900
+                                    text-3xl bold  text-blue-900
                           hover:scale-150 duration-150'>
 
                                             <NavLink style={navStyle} to={link} smooth duration={500}  >
