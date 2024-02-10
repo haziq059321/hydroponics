@@ -64,7 +64,7 @@ const Home = () => {
                      from-cyan-500 to-blue-800 cursor-pointer group  gap-4 '
                      
                      onClick={()=>navigate('reading')}>
-                        About project
+                       Download Project Report 
                         <span className='group-hover:rotate-90 duration-300'>
                             <AiOutlineArrowRight size={20}/>
                         </span>

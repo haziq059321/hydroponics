@@ -209,7 +209,7 @@ const Team = () => {
 
 
     return (
-        <div name="team" className=' -z-10 flex  w-full h-screen  bg-gradient-to-b  
+        <div name="team"  className='   absolute  -z-10 flex  w-full h-screen  bg-gradient-to-b  
     from-blue-200 via-green-200 to-blue-300'>
 
             <div className=' w-3/4  m-auto'>
