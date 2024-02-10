@@ -135,7 +135,7 @@ const Navbar = () => {
 
                                             className=' cursor-pointer uppercase 
                                                 gap-6 
-                                    text-3xl bold  text-blue-900
+                                    text-2xl bold  text-blue-900
                           hover:scale-150 duration-150'>
 
                                             <NavLink style={navStyle} to={link} smooth duration={500}  >
